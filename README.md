@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-![screenshot](https://ibb.co/wSZ9sLb)
+![screenshot](https://res.cloudinary.com/powder-shopit/image/upload/v1615031356/Screenshot_1_gouiry.png)
 ## Features
 
 - Full featured shopping cart
